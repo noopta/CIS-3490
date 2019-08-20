@@ -1,0 +1,19 @@
+Assignment 4
+CIS 3490
+Anupta Islam
+1007108
+anupta@uoguelph.ca
+
+To run the program for question one: 
+
+1. Open command line 
+2. Type in make
+3. Enter "./p1 data_7.txt" or whatever file name you need
+4. You will be prompted for the string
+
+To run the program for question two: 
+
+1. Open command line 
+2. Type in make
+3. Enter "./p2 data_7.txt" or whatever file name you need
+4. You will be prompted for the string
